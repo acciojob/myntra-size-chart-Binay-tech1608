@@ -1,2 +1,23 @@
+table, th, td{
+	border: 0.5px solid black;
+}
 
-/* Your CSS Code here. */
+thead{
+	background-color: red;
+	color: white;
+}
+
+#first{
+	background-color: orange;
+	color: white;
+}
+
+#second{
+	background-color: hotpink;
+	color: black;
+}
+
+#third{
+	background-color: gray;
+	color: black;
+}
